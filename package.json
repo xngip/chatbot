@@ -26,7 +26,7 @@
 	},
 	"homepage": "https://github.com/zijipia/Ziji-bot-discord#readme",
 	"dependencies": {
-		"@discord-player/extractor": "^4.5.0",
+		"@discord-player/extractor": "^7.1.0",
 		"@iamtraction/google-translate": "^2.0.1",
 		"axios": "^1.7.7",
 		"canvacord": "^6.0.2",
